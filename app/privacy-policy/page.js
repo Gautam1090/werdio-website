@@ -54,7 +54,7 @@ export default function PrivacyPolicy() {
 
         <h3>Contact</h3>
         <p>
-          For privacy questions, contact: <strong>YOUR_SUPPORT_EMAIL@example.com</strong>
+          For privacy questions, contact: <strong>pandeyg850@gmail.com</strong>
         </p>
       </main>
 
